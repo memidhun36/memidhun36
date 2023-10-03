@@ -1,4 +1,6 @@
-[Banner](https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?w=1060&t=st=1696321700~exp=1696322300~hmac=6624f814065d77674365e8b00a6a7ef8225833f5f6f781d3aae49aa4cc76adf1)
+[Banner]()
+[![Banner Image](https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?w=1060&t=st=1696321700~exp=1696322300~hmac=6624f814065d77674365e8b00a6a7ef8225833f5f6f781d3aae49aa4cc76adf1)](https://github.com/your-username/your-repo)
+
   ## **About me**
 
 <picture> <img align="right" src="https://avatars.githubusercontent.com/u/141876262?v=4" width = 250px></picture>
