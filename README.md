@@ -1,14 +1,4 @@
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey Folks!;++;Self-taught+Front-End+Developer,;Electronics+Communication+Student,;CTF+Newbie,;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-
-<br>
-
-
-
-	
+[Banner](https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?w=1060&t=st=1696321700~exp=1696322300~hmac=6624f814065d77674365e8b00a6a7ef8225833f5f6f781d3aae49aa4cc76adf1)
   ## **About me**
 
 <picture> <img align="right" src="https://avatars.githubusercontent.com/u/141876262?v=4" width = 250px></picture>
