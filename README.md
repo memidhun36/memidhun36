@@ -1,5 +1,4 @@
-[Banner]()
-[![Banner Image](https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?w=1060&t=st=1696321700~exp=1696322300~hmac=6624f814065d77674365e8b00a6a7ef8225833f5f6f781d3aae49aa4cc76adf1)](https://github.com/your-username/your-repo)
+[![Banner Image](https://img.freepik.com/premium-photo/artificial-intelligence-ai-with-machine-deep-learning-data-mining-modern-computer-technologies_102957-972.jpg?w=1380)](https://github.com/memidhun36)
 
   ## **About me**
 
